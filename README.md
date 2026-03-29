@@ -5,11 +5,17 @@ This repository showcases my Digital Literacy Portfolio, including tasks on info
 
 ## Student Details
 Name: SOUMYA TANDON
+
 Registration Number: 25BSA10030
+
 Branch : B.Tech CSE (CLOUD COMPUTING AND AUTOMATION)
-Year: 2025-2029
+
+Year: FIRST YEAR
+
 Course Code: CSE0001
+
 Course Title: Digital Literacy
+
 University: VIT Bhopal University
 
 ## Project Overview 
