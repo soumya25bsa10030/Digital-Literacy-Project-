@@ -1,0 +1,27 @@
+TASK 5 : Case study writeup, prevention checklist
+1) Have a different password for every internet account. DO NOT USE THE SAME PASSWORD on multiple of your accounts.
+
+2) Use 2FA (Two Factor Authentication) on EVERY account – email, banking, social media, etc.
+
+3) Do not share your One Time Password, your User ID, Password or any other personal information with anyone, even if the person claims to be calling from a bank or an official service.
+
+4) Be cautious about links, emails, and messages, especially when someone asks you to respond quickly or offers some kind of reward for doing so.
+
+5) Regularly update software (security patches) on your computer, smartphone, etc. – Doing so reduces the chance of being a victim of a cybercrime due to a technology vulnerability.
+
+6) Do not use Public Wi-Fi to access Sensitive Internet Accounts (such as your banking account or checking email).
+
+7) If you are using UPI Apps (Unified Payment Interface Apps) – Always double check that you are sending money the right person.
+
+8) Do not approve any “collect requests,” or pay any “collect request” from someone you know using UPI Apps.
+
+9) If you are going to download Apps, always look for a well-known Developed name to make sure that the App you are looking at is from a trusted/legitimate Developer.
+
+
+Reporting Cybercrime: 
+
+1)If you are a victim of cyber fraud or online harassment: 
+
+Report it away at the National Cyber Crime Portal: cybercrime.gov.in 
+
+Call the Cyber Crime Helpline: 1930 they can help you with Cybercrime.
